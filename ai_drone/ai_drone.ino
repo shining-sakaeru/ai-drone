@@ -1,6 +1,6 @@
-/*
-GetData
-*/
+
+
+/*GetData*/
 
 #include <MPU9250_asukiaaa.h>
 
